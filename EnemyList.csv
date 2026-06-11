@@ -1,0 +1,365 @@
+﻿enemy,base health,health type,base armor,armor type,base shield,shield type,faction,unit type,overgaurd
+002-ER,1000,robotic,50,alloy,2500,proto,corpus,medium,no
+Aerial Commander,800,clone,250,ferrite,0,na,grineer,medium,no
+Aerolyst,2000,biomechanical,75,adaptive,0,na,sentient,heavy,no
+Alad V,900,corpo,250,alloy,1500,na,corpus,boss,no
+Amalgam Alkonost,650,biomechanical,0,na,300,sentient,corpus,medium,no
+Amalgam Arca Heqet,700,corpo,0,na,1100,sentient,corpus,medium,no
+Amalgam Arca Kucumatz,1500,robotic,0,na,400,sentient,corpus,medium,no
+Amalgam Cinder Machinist,1500,corpo,0,na,1200,sentient,corpus,medium,no
+Amalgam Heqet,500,corpo,0,na,400,sentient,corpus,medium,no
+Amalgam Kucumatz,500,robotic,0,na,100,sentient,corpus,medium,no
+Amalgam Machinist,600,corpo,0,na,300,sentient,corpus,medium,no
+Amalgam MOA,500,robotic,0,na,300,sentient,corpus,medium,no
+Amalgam Osprey,500,robotic,0,na,300,sentient,corpus,medium,no
+Amalgam Phase MOA,800,robotic,0,na,500,sentient,corpus,medium,no
+Amalgam Satyr,600,biomechanical,0,na,150,sentient,corpus,medium,no
+Amalgam Swarm Satyr,1300,biomechanical,0,na,400,sentient,corpus,medium,no
+Ambulas,1100,robotic,150,alloy,500,proto,corpus,boss,no
+Ancient Disruptor,400,infested,0,na,0,na,infested,medium,no
+Ancient Healer,400,infested,0,na,0,na,infested,medium,yes
+Angst,350,nekro,50,prime,200,orkin,shadow,boss,yes
+Anti MOA,50,robotic,0,na,200,proto,corpus,basic,no
+Archon Amar,3000,biomechanical,25,adaptive,0,na,narmer,boss,no
+Archon Boreal,3000,biomechanical,25,adaptive,0,na,narmer,boss,no
+Archon Nira,3000,biomechanical,25,adaptive,0,na,narmer,boss,no
+Armaments Director,1750,corpo,100,alloy,1200,proto,corpus,medium,no
+Armis Ulta,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Artificer,1500,clone,150,ferrite,0,na,grineer,medium,no
+Auditor,1000,robotic,50,alloy,2500,proto,corpus,heavy,no
+Aurax Actinic,1000,corpo,0,na,500,proto,corpus,medium,no
+Aurax Atloc Raknoid,300,robotic,150,alloy,250,proto,corpus,medium,no
+Aurax Baculus,150,corpo,0,na,500,proto,corpus,basic,no
+Aurax Culveri MOA,55,robotic,0,na,30,proto,corpus,light,no
+Aurax Polaris MOA,55,robotic,0,na,30,proto,corpus,light,no
+Aurax Vertec,1000,corpo,0,no,500,proto,corpus,heavy,no
+Azoth,1000,corpo,50,alloy,2500,proto,corpus,heavy,no
+Bailiff,700,clone,500,ferrite,0,na,grineer,medium,no
+Balista,100,clone,100,ferrite,0,na,grineer,light,no
+Basal Diploid,250,infested,125,fossilized,0,na,infested,medium,no
+Battakyst,1150,biomechanical,150,adaptive,0,na,sentient,medium,no
+Blite Captain,300,clone,750,ferrite,0,na,grineer,heavy,no
+Boiler,1200,infested,0,na,0,na,infested,medium,no
+Bombard,200,clone,400,ferrite,0,na,grineer,heavy,no
+Brachiolyst,100,biomechanical,0,na,250,sentient,sentient,medium,no
+Brood Mother,300,infested,0,na,0,na,infested,medium,no
+Bursa,750,robotic,50,alloy,2000,proto,corpus,heavy,no
+Butcher,50,clone,5,ferrite,0,na,grineer,light,no
+Captain Vor,900,clone,250,ferrite,900,orkin,grineer,boss,no
+Carabus,650,robotic,0,na,50,proto,grineer,light,no
+Charger,80,infested,0,na,0,na,infested,basic,no
+Cinderthresh Hyena,800,robotic,0,na,500,proto,corpus,boss,no
+Conculyst,1150,biomechanical,150,adaptive,0,na,sentient,basic,no
+Coolent Ranknoid,100,robotic,150,alloy,2000,proto,corpus,medium,no
+Corpus Cestra Target,800,corpo,50,alloy,1200,proto,corpus,medium,no
+Corpus Sniper Target,1000,corpo,50,alloy,1200,proto,corpus,medium,no
+Corpus Supra Target,800,corpo,50,alloy,1200,proto,corpus,medium,no
+Corpus Tech,700,corpo,0,na,250,proto,corpus,heavy,no
+Corpus Trencher Target,800,corpo,50,alloy,1200,proto,corpus,medium,no
+Corrupted Ancient,400,infested,0,na,0,na,corrupted,medium,yes
+Corrupted Bombard,200,clone,400,ferrite,0,na,corrupted,heavy,no
+Corrupted Butcher,50,clone,5,ferrite,0,na,corrupted,light,no
+Corrupted Crewman,60,corpo,0,na,150,proto,corrupted,light,no
+Corrupted Drahk,200,clone,100,ferrite,0,na,corrupted,basic,no
+Corrupted Drahk Master,300,clone,150,ferrite,0,na,corrupted,basic,no
+Corrupted Heavy Gunner,500,clone,300,ferrite,0,na,corrupted,heavy,no
+Corrupted Lancer,60,clone,200,ferrite,0,na,corrupted,light,no
+Corrupted MOA,250,robotic,0,na,250,proto,corrupted,basic,no
+Corrupted Nullifier,60,corpo,0,na,150,proto,corrupted,medium,no
+Corrupted Vor,1500,indifferent,250,ferrite,1500,orkin,corrupted,boss,yes
+Councilor Vay Hek,2000,robotic,200,ferrite,0,na,grineer,boss,no
+Crawler,50,infested,0,na,0,na,infested,light,no
+Crewman,90,corpo,0,na,100,proto,corpus,light,no
+Axio Crewman,500,corpo,0,na,150,proto,corpus,light,no
+Juno Crewman,90,corpo,0,na,120,proto,corpus,light,no
+Orm Crewman,500,corpo,0,na,150,proto,corpus,light,no
+Taro Crewman,500,corpo,0,na,150,proto,corpus,light,no
+Terra Crewman,120,corpo,0,na,180,proto,corpus,light,no
+Vapos Crewman,90,corpo,0,na,120,proto,corpus,light,no
+Vorac Crewman,500,corpo,0,na,150,proto,corpus,light,no
+Darek Draga,130,clone,10,ferrite,0,na,grineer,light,no
+Dargyn,200,robotic,200,alloy,0,na,grineer,light,no
+Dargyn Piolot,120,clone,100,ferrite,0,na,grineer,light,no
+Datalyst,1300,corpo,0,na,600,proto,corpus,medium,no
+Deimos Carnis,800,infested,50,fossilized,0,na,infested,medium,no
+Deimos Jugulus,1600,infested,300,fossilized,0,na,infested,heavy,no
+Deimos Saxum,800,infested,70,fossilized,0,na,infested,heavy,no
+Deimos Tendril Drone,100,infested,150,fossilized,0,na,infested,light,no
+Deimos Therid,1200,infested,0,na,0,na,infested,medium,no
+Denial Bursa,1200,robotic,200,alloy,700,proto,corpus,heavy,no
+Derim Zahn,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Derivator Crewman,350,corpo,0,na,100,proto,corpus,light,no
+Detron Crewman,60,corpo,0,na,150,proto,corpus,light,no
+Disc MOA,60,robotic,0,na,200,proto,corpus,light,no
+Draga,120,clone,10,ferrite,0,na,grineer,light,no
+Drahk,200,clone,100,ferrite,0,na,grineer,basic,no
+Drahk Master,300,clone,150,ferrite,0,na,grineer,basic,no
+Drover Bursa,1200,robotic,200,alloy,700,proto,corpus,heavy,no
+Dru Pesfor,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Eidolon Gantulyst,10000,biomechanical,130,adaptive,1800,sentient,sentient,boss,no
+Eidolon Hydrolyst,12000,biomechanical,150,adaptive,2000,sentient,sentient,boss,no
+Eidolon Teralyst,9000,biomechanical,125,adaptive,1500,sentient,sentient,boss,no
+Eidolon Vomvalyst,700,biomechanical,0,na,0,na,sentient,light,no
+Electric Crawler,50,infested,0,na,0,na,infested,light,no
+Elite Crewman,100,corpo,0,na,120,proto,corpus,basic,no
+Elite Axio Crewman,1000,corpo,0,na,200,proto,corpus,basic,no
+Elite Juno Crewman,100,corpo,0,na,120,proto,corpus,basic,no
+Elite Orm Crewman,1000,corpo,0,na,200,proto,corpus,basic,no
+Elite Taro Crewman,1000,corpo,0,na,200,proto,corpus,basic,no
+Elite Tarro Crewman,300,corpo,0,na,400,proto,corpus,basic,no
+Elite Vapos Crewman,100,corpo,0,na,120,proto,corpus,basic,no
+Elite Vorac Crewman,1000,corpo,0,na,200,proto,corpus,basic,no
+Elite Lancer,150,clone,200,ferrite,0,na,grineer,basic,no
+Elite Drekar Lancer,150,clone,200,ferrite,0,na,grineer,basic,no
+Elite Arid Lancer,150,clone,200,ferrite,0,na,grineer,basic,no
+Elite Frontier Lancer,150,clone,200,ferrite,0,na,grineer,basic,no
+Elite Exo Lancer,600,clone,200,ferrite,0,na,grineer,basic,no
+Elite Gyre Lancer,600,clone,200,ferrite,0,na,grineer,basic,no
+Elite Kosma Lancer,600,clone,200,ferrite,0,na,grineer,basic,no
+Elite Kuva Lancer,600,clone,225,ferrite,0,na,grineer,basic,no
+Elite Tusk Lancer,150,clone,200,ferrite,0,na,grineer,basic,no
+Elite Shield Lancer,600,clone,50,ferrite,0,na,grineer,medium,no
+Engineer,2000,corpo,0,na,250,proto,corpus,medium,no
+Eviscerator,150,clone,200,ferrite,0,na,grineer,basic,no
+Executioner Dhurnam,600,clone,300,ferrite,600,proto,grineer,boss,no
+Executioner Dok Thul,600,clone,300,ferrite,600,proto,grineer,boss,no
+Executioner Garesh,350,clone,150,ferrite,600,proto,grineer,boss,no
+Executioner Gorth,500,clone,325,ferrite,800,proto,grineer,boss,no
+Executioner Harkonar,200,clone,75,ferrite,500,proto,grineer,boss,no
+Executioner Nok,250,clone,150,ferrite,500,proto,grineer,boss,no
+Executioner Reth,250,clone,75,ferrite,350,proto,grineer,boss,no
+Executioner Vay Molta,350,clone,225,ferrite,750,proto,grineer,boss,no
+Executioner Zura,250,clone,75,ferrite,500,proto,grineer,boss,no
+Exploiter Orb,12000,robotic,200,alloy,0,na,corpus,boss,no
+Feral Diploid,250,infested,125,fossilized,0,na,infested,medium,no
+Feyarch Specter,2250,infested,200,fossilized,1000,orkin,shadow,boss,no
+Flameblade,50,clone,5,ferrite,0,na,grineer,light,no
+Fusion MOA,250,robotic,0,na,250,proto,corpus,medium,no
+General Sargas Ruk,2000,clone,250,ferrite,0,na,grineer,boss,no
+Ghoul Auger,400,clone,50,ferrite,0,na,grineer,light,no
+Ghoul Devourer,600,clone,50,ferrite,0,na,grineer,medium,no
+Ghoul Expired,300,clone,50,ferrite,0,na,grineer,light,no
+Ghoul Rictus,400,clone,50,ferrite,0,na,grineer,basic,no
+Glacik Commander,300,clone,450,ferrite,0,na,grineer,heavy,no
+Gokstad Officer,900,clone,900,ferrite,0,na,grineer,medium,no
+Gokstad Pilot,300,clone,200,ferrite,0,na,grineer,light,no
+Gruzzling,5000,indifferent,50,void,0,na,murmur,medium,yes
+Guardsman,100,clone,5,ferrite,0,na,grineer,medium,no
+Gyre Hyena,800,robotic,25,alloy,500,proto,corpus,boss,no
+Heavy Gunner,200,clone,400,ferrite,0,na,grineer,heavy,no
+Arid Heavy Gunner,200,clone,400,ferrite,0,na,grineer,heavy,no
+Demolisher Heavy Gunner,2000,clone,400,ferrite,0,na,grineer,heavy,no
+Drekar Heavy Gunner,250,clone,400,ferrite,0,na,grineer,heavy,no
+Frontier Heavy Gunner,250,clone,500,ferrite,0,na,grineer,heavy,no
+Kuva Heavy Gunner,350,clone,500,ferrite,0,na,grineer,heavy,no
+Tusk Heavy Gunner,300,clone,500,ferrite,0,na,grineer,heavy,no
+Hellion,50,clone,50,ferrite,0,na,grineer,basic,no
+Hemocyte,2000,infested,125,fossilized,0,na,infested,boss,no
+Hyekka,200,clone,175,ferrite,0,na,grineer,medium,no
+Hyekka Master,650,clone,50,ferrite,0,na,grineer,medium,no
+Hyena,800,robotic,25,alloy,500,proto,corpus,boss,no
+Icemire Hyena,800,robotic,25,alloy,500,proto,corpus,boss,no
+Isolator Bursa,1200,robotic,200,alloy,700,proto,corpus,heavy,no
+Jackal,1200,robotic,100,alloy,2000,proto,corpus,boss,no
+Jad Teran,500,corpo,25,alloy,"1,500",proto,corpus,medium,no
+Jen Dro,500,corpo,25,alloy,"1,500",proto,corpus,medium,no
+Jordas Golem,20000,infested,250,fossilized,0,na,infested,boss,no
+Juggernaut,3000,infested,250,fossilized,0,na,infested,heavy,no
+Juggernaut Behemoth,4000,infested,350,fossilized,0,na,infested,boss,no
+Juno Dera MOA,60,robotic,0,na,150,proto,corpus,light,no
+Juno Geminex MOA,60,robotic,0,na,200,proto,corpus,light,no
+Juno Glaxion MOA,60,robotic,0,na,300,proto,corpus,basic,no
+Juno Jactus Osprey,50,robotic,0,na,25,proto,corpus,light,no
+Juno Sapper MOA,100,robotic,0,na,200,proto,corpus,medium,no
+Kela De Thaym,7250,clone,250,ferrite,1400,proto,grineer,boss,no
+Kuva Guardian,400,clone,100,ferrite,0,na,grineer,heavy,no
+Kuva Trokarian,400,clone,200,ferrite,0,na,grineer,heavy,no
+Kyta Raknoid,4000,robotic,150,alloy,10000,proto,corpus,heavy,no
+Lancer,100,clone,100,ferrite,0,na,grineer,light,no
+Arid Lancer,100,clone,100,ferrite,0,na,grineer,light,no
+Frontier Lancer,100,clone,100,ferrite,0,na,grineer,light,no
+Kuva Lancer,150,clone,125,ferrite,0,na,grineer,light,no
+Nightwatch Lancer,100,clone,100,ferrite,0,na,grineer,light,no
+Tusk Lancer,100,clone,100,ferrite,0,na,grineer,light,no
+Leaper,100,infested,0,na,0,na,infested,light,no
+Leaping Thrasher,600,infested,0,na,0,na,infested,medium,no
+Leech Osprey,50,robotic,0,na,25,proto,corpus,light,no
+Lektro Commander,300,clone,750,ferrite,0,na,grineer,heavy,no
+Lephantis,1200,infested,200,fossilized,0,na,infested,boss,no
+Lobber Crawler,50,infested,0,na,0,na,infested,light,no
+Lockjaw & Sol,1000,robotic,50,alloy,2500,proto,corpus,medium,no
+Lumbering Fragment,250,indifferent,75,void,0,na,murmur,basic,no
+Lynx,1000,robotic,150,alloy,0,na,corpus,boss,no
+Lynx Osprey,35,robotic,0,na,50,proto,corpus,basic,no
+M-W.A.M.,1000,robotic,50,alloy,2500,proto,corpus,medium,no
+Machinist,100,corpo,0,na,230,proto,corpus,medium,no
+Maggot,20,infested,0,na,0,na,infested,light,no
+Malice,350,nekro,50,prime,500,orkin,shadow,boss,yes
+Mania,350,nekro,50,prime,200,orkin,shadow,boss,yes
+Manic,350,clone,25,ferrite,0,na,grineer,heavy,yes
+Manic Bombard,1000,clone,400,ferrite,0,na,grineer,heavy,yes
+Mimic,800,biomechanical,125,adaptive,0,na,sentient,basic,no
+Mine Osprey,50,robotic,0,na,25,proto,corpus,light,no
+Minima MOA,60,robotic,0,na,150,proto,corpus,light,no
+Misery,350,nekro,50,prime,200,orkin,shadow,boss,yes
+Mite Raknoid,200,robotic,75,alloy,50,proto,corpus,heavy,no
+Mitosid,500,infested,125,fossilized,0,na,infested,medium,no
+MOA,60,robotic,0,na,100,proto,corpus,light,no
+Mocking Whisper,25000,indifferent,250,void,0,na,murmur,boss,no
+Mutalist Alad V,2500,infested,500,alloy,1200,proto,infested,boss,no
+Mutalist Osprey,100,infested,0,na,0,na,infested,light,no
+Nako Xol,2500,corpo,50,alloy,1000,proto,corpus,medium,no
+Napalm,500,clone,300,ferrite,0,na,grineer,heavy,no
+Narmer Ballista,100,clone,100,ferrite,0,na,narmer,basic,no
+Narmer Bombard,500,clone,300,ferrite,0,na,narmer,heavy,no
+Narmer Commander,3500,clone,200,ferrite,0,na,narmer,heavy,no
+Narmer Crewman,100,corpo,0,na,150,proto,narmer,light,no
+Narmer Corpus Tech,700,corpo,0,na,250,proto,narmer,heavy,no
+Narmer Dera MOA,60,robotic,0,na,150,proto,narmer,light,no
+Narmer Detron Crewman,60,corpo,0,na,150,proto,narmer,light,no
+Narmer Disc MOA,60,robotic,0,na,200,proto,narmer,light,no
+Narmer Flameblade,50,clone,5,ferrite,0,na,narmer,light,no
+Narmer Glaxion MOA,60,robotic,0,na,300,proto,narmer,basic,no
+Narmer Heavy Gunner,300,clone,500,ferrite,0,na,narmer,heavy,no
+Narmer Hellion,100,clone,100,ferrite,0,na,narmer,basic,no
+Narmer Jailer,600,corpo,0,na,500,proto,narmer,medium,no
+Narmer Lancer,100,clone,100,ferrite,0,na,narmer,light,no
+Narmer Leech Osprey,100,robotic,0,na,50,proto,narmer,light,no
+Narmer Mine Osprey,100,robotic,0,na,50,proto,narmer,light,no
+Narmer Napalm,500,clone,300,ferrite,0,na,narmer,heavy,no
+Narmer Nullifier Crewman,60,corpo,0,na,150,proto,narmer,heavy,no
+Narmer Powerfist,100,clone,5,ferrite,0,na,narmer,light,no
+Narmer Prod Crewman,100,corpo,0,na,50,proto,narmer,light,no
+Narmer Raknoid,2000,robotic,200,alloy,5000,proto,narmer,heavy,no
+Narmer Shield Osprey,100,robotic,0,na,50,proto,narmer,light,no
+Narmer Sniper Crewman,60,corpo,0,na,150,proto,narmer,basic,no
+Narmer Thumper Doma,5000,robotic,100,ferrite,0,na,narmer,boss,no
+Narmer Trooper,120,clone,150,ferrite,0,na,narmer,basic,no
+Nauseous Crawler,50,infested,0,na,0,na,infested,light,no
+Nox,350,clone,500,ferrite,0,na,grineer,heavy,yes
+Nullifier Crewman,90,corpo,0,na,30,proto,corpus,heavy,no
+Axio Nullifier Crewman,300,corpo,0,na,50,proto,corpus,heavy,no
+Juno Nullifier Crewman,90,corpo,0,na,30,proto,corpus,heavy,no
+Orm Nullifier Crewman,300,corpo,0,na,50,proto,corpus,heavy,no
+Taro Nullifier Crewman,300,corpo,0,na,50,proto,corpus,heavy,no
+Vapos Nullifier Crewman,90,corpo,0,na,30,proto,corpus,heavy,no
+Vorac Nullifier Crewman,300,corpo,0,na,50,proto,corpus,heavy,no
+Numon,500,corpo,0,na,300,proto,corpus,medium,no
+Optio,250,corpo,0,na,100,proto,corpus,medium,no
+Orokin Drone,35,nekro,0,na,50,proto,corrupted,light,no
+Orokin Spectator,300,nekro,0,na,50,proto,corrupted,light,no
+Orphid Specter,1500,infested,200,fossilized,1000,orkin,shadow,boss,no
+Ortholyst,600,biomechanical,125,adaptive,0,na,sentient,heavy,no
+Osprey,50,robotic,0,na,25,proto,corpus,light,no
+Oxium Osprey,100,robotic,25,alloy,75,proto,corpus,basic,no
+Pelna Cade,900,corpo,25,alloy,2000,proto,corpus,medium,no
+Phorid,5000,infested,25,fossilized,0,na,infested,boss,no
+Pilot,1100,corpo,0,na,400,proto,corpus,basic,no
+Plains Commander,1100,clone,225,ferrite,0,na,grineer,heavy,no
+Powerfist,100,clone,5,ferrite,0,na,grineer,light,no
+Prod Crewman,100,corpo,0,na,50,proto,corpus,light,no
+Profit-Taker Orb,7000,robotic,150,alloy,30000,proto,corpus,boss,no
+Protea Specter,250,nekro,125,prime,500,orkin,corpus,boss,no
+Protector Stalker,450,nekro,300,prime,200,orkin,shadow,boss,yes
+Pyr Captain,300,clone,700,ferrite,0,na,grineer,heavy,no
+Rabbleback Hyena,800,robotic,25,alloy,500,proto,corpus,boss,no
+Raider,500,clone,200,ferrite,0,na,grineer,medium,no
+Raider Carver,500,clone,200,ferrite,0,na,grineer,medium,no
+Raider Eviscerator,500,clone,200,ferrite,0,na,grineer,medium,no
+Railgun MOA,60,robotic,0,na,150,proto,corpus,light,no
+Rana Del,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Ranger Crewman,1000,corpo,0,na,800,proto,corpus,medium,no
+Ratel,10,robotic,0,na,30,proto,corpus,light,no
+Razorback,6000,robotic,100,na,2000,proto,corpus,boss,no
+Recon Commander,1100,clone,225,ferrite,0,na,grineer,heavy,no
+Regulator,75,robotic,100,ferrite,0,na,grineer,light,no
+Remech Osprey,250,robotic,50,alloy,200,proto,corpus,basic,no
+Rogue Arcocanid,80,nekro,100,prime,0,na,murmur,light,no
+Rogue Bonewidow,3800,nekro,500,prime,0,na,murmur,heavy,no
+Rogue Culverin,500,nekro,175,prime,0,na,murmur,light,no
+Rogue Voidrig,3800,nekro,500,prime,0,na,murmur,heavy,no
+Roller,20,robotic,50,ferrite,0,na,grineer,light,no
+Roller Sentry,200,robotic,100,ferrite,0,na,grineer,basic,no
+Runner,100,infested,0,na,0,na,infested,light,no
+Rupturing Fragment,100,indifferent,25,void,0,na,murmur,light,no
+Sapping Osprey,50,robotic,0,na,25,proto,corpus,light,no
+Scathing Whisper,25000,indifferent,250,void,0,na,murmur,boss,no
+Scavenger Drone,100,robotic,0,na,50,proto,corpus,light,no
+Scorch,80,clone,75,ferrite,0,na,grineer,medium,no
+Scorpion,75,clone,75,ferrite,0,na,grineer,light,no
+Scyto Raknoid,5000,robotic,200,alloy,0,na,corpus,heavy,no
+Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Arid Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Drekar Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Frontier Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Kuva Seeker,150,clone,250,ferrite,0,na,grineer,basic,no
+Nightwatch Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Tusk Seeker,100,clone,200,ferrite,0,na,grineer,basic,no
+Sentient Research Director,1750,corpo,100,alloy,1200,proto,corpus,heavy,no
+Shadow Stalker,750,nekro,300,prime,200,orkin,shadow,boss,yes
+Shield Lancer,100,clone,5,ferrite,0,na,grineer,basic,no
+Shield Osprey,35,robotic,0,na,50,proto,corpus,light,no
+Shock Draga,150,clone,50,ferrite,0,na,grineer,medium,no
+Shockwave MOA,60,robotic,0,na,150,proto,corpus,basic,no
+Shuffling Fragment,250,indifferent,25,void,0,na,murmur,light,no
+Sikula,100,clone,50,ferrite,50,proto,grineer,basic,no
+Sniper Crewman,60,corpo,0,na,150,proto,corpus,basic,no
+Sprag,500,clone,100,ferrite,0,na,grineer,boss,no
+Stropha Crewman,600,corpo,0,na,50,proto,corpus,basic,no
+Summulyst,2500,biomechanical,150,adaptive,4000,sentient,sentient,boss,no
+Supressor,300,clone,200,ferrite,0,na,grineer,medium,no
+Swarm Mutalist MOA,250,infested,0,na,0,na,infested,medium,no
+Symbilyst,900,biomechanical,200,adaptive,0,na,sentient,heavy,no
+Tar Mutalist MOA,250,infested,0,na,0,na,infested,medium,no
+Tarask Bursa,1200,robotic,0,na,800,proto,corpus,heavy,no
+Taro Secura Osprey,250,robotic,0,na,75,proto,corpus,light,no
+Terra Embattor MOA,600,robotic,0,na,600,proto,corpus,medium,no
+Terra Jailer,500,corpo,0,na,500,proto,corpus,medium,no
+Terra Manker,900,corpo,50,alloy,800,proto,corpus,heavy,no
+Terra Overtaker,400,corpo,0,na,250,proto,corpus,basic,no
+Terra Plasmor Crewman,60,corpo,0,na,200,proto,corpus,light,no
+Terra Provisor,300,corpo,0,na,450,proto,corpus,medium,no
+Terra Raptor SX,1750,robotic,50,alloy,1750,proto,corpus,boss,no
+Terra Trencher,450,corpo,0,na,300,proto,corpus,medium,no
+The Anatomizer,5000,indifferent,100,void,0,na,murmur,heavy,no
+The Fragmented,50000,indifferent,500,void,0,na,murmur,boss,no
+Leekter,1700,clone,200,ferrite,0,na,grineer,boss,no
+Shik Tal,1700,clone,200,ferrite,0,na,grineer,boss,no
+Vem Tabook,1700,clone,200,ferrite,0,na,grineer,boss,no
+The Hollow Vein,7500,indifferent,150,void,0,na,murmur,heavy,no
+The Sergeant,500,corpo,50,alloy,1000,proto,corpus,boss,no
+The Severed Warden,5,indifferent,25,void,0,na,murmur,medium,yes
+Thrax Centurion,3600,indifferent,200,void,0,na,murmur,heavy,yes
+Thrax Legatus,3200,indifferent,200,void,0,na,murmur,heavy,yes
+Tia Mayn,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Torment,350,nekro,50,prime,200,orkin,shadow,boss,yes
+Toxic Ancient,400,infested,0,na,0,na,infested,heavy,no
+Toxic Crawler,50,infested,0,na,0,na,infested,light,no
+Treasurer,60,corpo,0,na,150,proto,corpus,heavy,no
+Trooper,120,clone,150,ferrite,0,na,grineer,basic,no
+Tusk Thumper,3000,robotic,100,ferrite,0,na,grineer,boss,no
+Tusk Thumper Bull,4000,robotic,100,ferrite,0,na,grineer,boss,no
+Tusk Thumper Doma,5000,robotic,100,ferrite,0,na,grineer,boss,no
+Tyl Regor,3000,clone,250,ferrite,800,proto,grineer,boss,no
+Undying Flyer,400,infested,0,na,0,na,infested,basic,no
+Vambac,500,corpo,0,na,300,proto,corpus,basic,no
+Vapos Detron Ranger,60,corpo,0,na,450,proto,corpus,light,no
+Vapos Elite Ranger,60,corpo,0,na,450,proto,corpus,basic,no
+Vapos Nullifier Ranger,80,corpo,0,na,450,proto,corpus,heavy,no
+Vapos Sniper Ranger,60,corpo,0,na,450,proto,corpus,basic,no
+Vapos Tech Ranger,60,corpo,0,na,450,proto,corpus,medium,no
+Ved Xol,1000,corpo,50,alloy,2500,proto,corpus,medium,no
+Venin Mutalist,200,infested,0,na,0,na,corpus,light,no
+Violence,350,nekro,50,prime,200,orkin,shadow,boss,yes
+Vivisect Director,1750,corpo,100,alloy,1200,proto,corpus,heavy,no
+Void Angel,12000,indifferent,350,void,100,orkin,murmur,boss,no
+Volatile Runner,80,infested,0,na,0,na,infested,light,no
+Warden,400,corpo,0,na,300,proto,corpus,heavy,no
+Zanuka,1000,robotic,25,alloy,15000,proto,corpus,boss,no
+Zanuka Hunter,600,robotic,25,alloy,1000,proto,corpus,boss,no
+Zealoid Bastion,950,infested,0,na,0,na,infested,boss,no
+Zealoid Prelate,11000,infested,0,na,0,na,infested,boss,no
+Zealot Baptizer,1200,infested,100,fossilized,0,na,infested,heavy,no
+Zealot Herald,1000,infested,100,fossilized,0,na,infested,heavy,no
+Zealot Proselytizer,2000,infested,100,fossilized,0,na,infested,heavy,no
+Zerca,500,corpo,0,na,300,proto,corpus,medium,no
